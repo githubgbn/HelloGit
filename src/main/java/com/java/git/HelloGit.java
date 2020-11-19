@@ -1,0 +1,11 @@
+package com.java.git;
+
+/**
+ * @author:guobingnan
+ * @date: 2020/11/19 17:53
+ */
+public class HelloGit {
+    public static void main(String[] args) {
+        System.out.println("Hello Git");
+    }
+}
